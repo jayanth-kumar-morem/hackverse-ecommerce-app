@@ -18,7 +18,7 @@ This e-commerce website allows users to browse and purchase products from variou
 ## Installation Steps
 
 1. Clone the repository
-2. git clone https://github.com/yourusername/your-ecommerce-project.git
+2. git clone https://github.com/jayanth-kumar-morem/hackverse-ecommerce-app.git
 3. Install the required dependencies:
 ```
 npm install
